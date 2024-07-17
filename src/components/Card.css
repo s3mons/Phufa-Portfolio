@@ -1,0 +1,32 @@
+.card-project{
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 7px;
+    width: auto;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.card-project-header{
+    display: flex;
+    align-items: center;
+}
+
+.card-project-image {
+    width: 100px; /* adjust size as needed */
+    height: auto;
+    margin-right: 20px; /* space between image and text */
+}
+
+.card-project-name {
+    font-size: 20px;
+    flex: 1;
+}
+
+.card-project-description {
+    margin: 10px 0 0 0;
+    color: #666;
+    transition: max-height 0.5s ease;
+}
