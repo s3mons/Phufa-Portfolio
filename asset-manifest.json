@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Phufa-Portfolio/static/css/main.b943b901.css",
+    "main.js": "/Phufa-Portfolio/static/js/main.17ee4f16.js",
+    "static/js/453.481e8e12.chunk.js": "/Phufa-Portfolio/static/js/453.481e8e12.chunk.js",
+    "index.html": "/Phufa-Portfolio/index.html",
+    "main.b943b901.css.map": "/Phufa-Portfolio/static/css/main.b943b901.css.map",
+    "main.17ee4f16.js.map": "/Phufa-Portfolio/static/js/main.17ee4f16.js.map",
+    "453.481e8e12.chunk.js.map": "/Phufa-Portfolio/static/js/453.481e8e12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b943b901.css",
+    "static/js/main.17ee4f16.js"
+  ]
+}
